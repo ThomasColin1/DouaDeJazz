@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DouaDeJazz/static/css/main.92a9ccb2.css",
-    "main.js": "/DouaDeJazz/static/js/main.64e4301a.js",
+    "main.css": "/DouaDeJazz/static/css/main.ea4118ed.css",
+    "main.js": "/DouaDeJazz/static/js/main.286dff10.js",
     "static/media/CSW.jpg": "/DouaDeJazz/static/media/CSW.242520b7389b593015f1.jpg",
     "static/media/logo-cfc22.png": "/DouaDeJazz/static/media/logo-cfc22.2d0c151ad2b34264d8a0.png",
     "static/media/emile.jpg": "/DouaDeJazz/static/media/emile.2dbef2174fe7d2a6f5d7.jpg",
@@ -29,9 +29,11 @@
     "static/media/foehn.jpg": "/DouaDeJazz/static/media/foehn.0a2834207b551cebb56e.jpg",
     "static/media/zeph2.jpg": "/DouaDeJazz/static/media/zeph2.4a2873384356218e5b0a.jpg",
     "static/media/17.jpg": "/DouaDeJazz/static/media/17.2b9906de276ca2e4ac26.jpg",
+    "static/media/Logo blanc transparent.png": "/DouaDeJazz/static/media/Logo blanc transparent.e35474b44bb209de2aa0.png",
     "static/media/6.jpg": "/DouaDeJazz/static/media/6.4de9feb0790bf04ebda5.jpg",
     "static/media/jet.jpg": "/DouaDeJazz/static/media/jet.f7af950ee6a95e3d1d14.jpg",
     "static/media/oscar2.jpg": "/DouaDeJazz/static/media/oscar2.cfd5ea732f0bf3286746.jpg",
+    "static/media/Logo white text.png": "/DouaDeJazz/static/media/Logo white text.c6d38c0017055912caf1.png",
     "static/media/1.jpg": "/DouaDeJazz/static/media/1.7f7fe42b025bafcc5fcd.jpg",
     "static/media/5.jpg": "/DouaDeJazz/static/media/5.89076f2c398007f5387f.jpg",
     "static/media/headerDiscComp.jpg": "/DouaDeJazz/static/media/headerDiscComp.2ddcb8dca5de6bf1e580.jpg",
@@ -69,11 +71,9 @@
     "static/media/logo-fb-2.png": "/DouaDeJazz/static/media/logo-fb-2.9b67d907e019495797ee.png",
     "static/media/garcia.jpg": "/DouaDeJazz/static/media/garcia.d31a268accf2d4b71c89.jpg",
     "static/media/bertaut.jpg": "/DouaDeJazz/static/media/bertaut.a5c5d5299ca40105e451.jpg",
-    "static/media/trans3.png": "/DouaDeJazz/static/media/trans3.4dfa1ebf922e33f22d28.png",
     "static/media/logo-alumni.jpg": "/DouaDeJazz/static/media/logo-alumni.a2422d760ae590fc1afe.jpg",
     "static/media/logo-transparent.png": "/DouaDeJazz/static/media/logo-transparent.830151881c62076d7a5e.png",
     "static/media/logo-grandlyon.png": "/DouaDeJazz/static/media/logo-grandlyon.ff3f082c43149b49bb23.png",
-    "static/media/logo-cercle.png": "/DouaDeJazz/static/media/logo-cercle.84899fb4b34a2f6f80df.png",
     "static/media/logo-ministere.png": "/DouaDeJazz/static/media/logo-ministere.0375b0d759e2df7d6c4f.png",
     "static/media/glyk.jpeg": "/DouaDeJazz/static/media/glyk.0707ea0cf464e5f81f48.jpeg",
     "static/media/logo-insta.png": "/DouaDeJazz/static/media/logo-insta.3dcee5232493ab88f582.png",
@@ -83,11 +83,11 @@
     "static/media/logo-rhinojazz.jpg": "/DouaDeJazz/static/media/logo-rhinojazz.8981d23934d899197855.jpg",
     "static/media/logo-jsmusique.jpg": "/DouaDeJazz/static/media/logo-jsmusique.4caa7b8a478eaedc5fcd.jpg",
     "index.html": "/DouaDeJazz/index.html",
-    "main.92a9ccb2.css.map": "/DouaDeJazz/static/css/main.92a9ccb2.css.map",
-    "main.64e4301a.js.map": "/DouaDeJazz/static/js/main.64e4301a.js.map"
+    "main.ea4118ed.css.map": "/DouaDeJazz/static/css/main.ea4118ed.css.map",
+    "main.286dff10.js.map": "/DouaDeJazz/static/js/main.286dff10.js.map"
   },
   "entrypoints": [
-    "static/css/main.92a9ccb2.css",
-    "static/js/main.64e4301a.js"
+    "static/css/main.ea4118ed.css",
+    "static/js/main.286dff10.js"
   ]
 }
