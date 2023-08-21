@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/DouaDeJazz/static/css/main.5e1c0b69.css",
-    "main.js": "/DouaDeJazz/static/js/main.56dadb1d.js",
+    "main.js": "/DouaDeJazz/static/js/main.550d0f3d.js",
+    "static/media/oeuf.png": "/DouaDeJazz/static/media/oeuf.05ca438bef738dc79229.png",
     "static/media/CSW.jpg": "/DouaDeJazz/static/media/CSW.242520b7389b593015f1.jpg",
     "static/media/logo-cfc22.png": "/DouaDeJazz/static/media/logo-cfc22.2d0c151ad2b34264d8a0.png",
     "static/media/emile.jpg": "/DouaDeJazz/static/media/emile.2dbef2174fe7d2a6f5d7.jpg",
@@ -18,7 +19,7 @@
     "static/media/GTO.jpg": "/DouaDeJazz/static/media/GTO.f09236f01998cbc69b13.jpg",
     "static/media/cimes2.jpg": "/DouaDeJazz/static/media/cimes2.bdefaa241f182b444fcd.jpg",
     "static/media/GTO2.jpg": "/DouaDeJazz/static/media/GTO2.6a9d62f62774e26e7b47.jpg",
-    "static/media/oeuf2.jpg": "/DouaDeJazz/static/media/oeuf2.c0946b27b6408fa7c6bc.jpg",
+    "static/media/airelle-besson-menu.png": "/DouaDeJazz/static/media/airelle-besson-menu.6bcebba77531bf82bcb7.png",
     "static/media/zeph-cri.jpg": "/DouaDeJazz/static/media/zeph-cri.ce8605acc7f3fcce9656.jpg",
     "static/media/asso2022.jpg": "/DouaDeJazz/static/media/asso2022.af1446e4d5a3624d6f1c.jpg",
     "static/media/tigran-hamasaya.png": "/DouaDeJazz/static/media/tigran-hamasaya.1fe6929ac4109baf30bc.png",
@@ -88,10 +89,10 @@
     "static/media/logo-jsmusique.jpg": "/DouaDeJazz/static/media/logo-jsmusique.4caa7b8a478eaedc5fcd.jpg",
     "index.html": "/DouaDeJazz/index.html",
     "main.5e1c0b69.css.map": "/DouaDeJazz/static/css/main.5e1c0b69.css.map",
-    "main.56dadb1d.js.map": "/DouaDeJazz/static/js/main.56dadb1d.js.map"
+    "main.550d0f3d.js.map": "/DouaDeJazz/static/js/main.550d0f3d.js.map"
   },
   "entrypoints": [
     "static/css/main.5e1c0b69.css",
-    "static/js/main.56dadb1d.js"
+    "static/js/main.550d0f3d.js"
   ]
 }
