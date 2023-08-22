@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DouaDeJazz/static/css/main.5e1c0b69.css",
-    "main.js": "/DouaDeJazz/static/js/main.550d0f3d.js",
+    "main.js": "/DouaDeJazz/static/js/main.d9c87110.js",
     "static/media/oeuf.png": "/DouaDeJazz/static/media/oeuf.05ca438bef738dc79229.png",
     "static/media/CSW.jpg": "/DouaDeJazz/static/media/CSW.242520b7389b593015f1.jpg",
     "static/media/logo-cfc22.png": "/DouaDeJazz/static/media/logo-cfc22.2d0c151ad2b34264d8a0.png",
@@ -89,10 +89,10 @@
     "static/media/logo-jsmusique.jpg": "/DouaDeJazz/static/media/logo-jsmusique.4caa7b8a478eaedc5fcd.jpg",
     "index.html": "/DouaDeJazz/index.html",
     "main.5e1c0b69.css.map": "/DouaDeJazz/static/css/main.5e1c0b69.css.map",
-    "main.550d0f3d.js.map": "/DouaDeJazz/static/js/main.550d0f3d.js.map"
+    "main.d9c87110.js.map": "/DouaDeJazz/static/js/main.d9c87110.js.map"
   },
   "entrypoints": [
     "static/css/main.5e1c0b69.css",
-    "static/js/main.550d0f3d.js"
+    "static/js/main.d9c87110.js"
   ]
 }
